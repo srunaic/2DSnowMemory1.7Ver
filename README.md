@@ -2,7 +2,7 @@
 <head>
   <body>
 
-<Title>PORTFOLIO</Title>
+<h2>PORTFOLIO</h2>
 
 <h1><목차></h1>
 
