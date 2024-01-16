@@ -1,4 +1,4 @@
-# 2D RPG StoryAdventure Game
+# 2D RPG Adventure & Story Game
 
 코마 환자의 혼란한 정신 속 세계를 스토리성 RPG 어드벤쳐에 표현한 게임.
 
