@@ -19,4 +19,5 @@
 - 'VisualStudio 2022'
 
 ## 📌 주요 기능
+<a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">영상링크:</a>
 
