@@ -11,14 +11,12 @@
 
 ### 🧑‍🤝‍🧑 개요: 개인 프로젝트
 
-
 ### ⚙️ 개발 환경
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
-- **ORM** : Mybatis
+- `Unity 2020.3.30f1`
+- `premiere pro 2022`
+- 'Adobe Illustrator2018 , PhotoShop2018'
+- 'Xd'
+- 'VisualStudio 2022'
 
 ## 📌 주요 기능
 #### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
