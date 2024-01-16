@@ -1,6 +1,6 @@
-# SpringBoot-Project-MEGABOX
-스프링 부트 + JSP 파싱_영화 예매 사이트
+# 2D RPG StoryAdventure Game
 
+코마 환자의 혼란한 정신 속 세계를 스토리성 RPG 어드벤쳐에 표현한 게임.
 
 ## 🖥️ 프로젝트 소개
 코마 환자의 정신세계를 표현한 게임 
