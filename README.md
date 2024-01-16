@@ -19,6 +19,6 @@
 - 'VisualStudio 2022'
 
 ## 📌 주요 기능
-<h1>영상링크: </h1><a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">2DSnowMemory 공모전용 영상</a>
+<h4>영상링크: </h4><a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">2DSnowMemory 공모전용 영상</a>
 
 
