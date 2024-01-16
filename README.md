@@ -18,7 +18,8 @@
 - 'Xd'
 - 'VisualStudio 2022'
 
-## 📌 주요 기능
+## 📌 주요 기능 영상 및 링크 설명
 <h4>영상링크: </h4><a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">2DSnowMemory 공모전용 영상</a>
 
+<h4>게임 기술서:</h4><a href=""> </a>
 
