@@ -18,7 +18,20 @@
 - 'Xd'
 - 'VisualStudio 2022'
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<style> 
+        #H{background-color="skyblue"; margin-padding ="2px";margin-Top ="2px"
+          margin-bottom = "2px"}
+</style>
+<!--Html 태그-->
+\
+<div ID="H" font-size:12px;>
+
+  
+</div>
+
+
+
+<img src="    " & color = skyblue & height=높이 & section=header & text=텍스트 & fontSize="24px"/>
 
 ## 📌 주요 기능 영상 및 링크 설명
 <h4>영상링크: </h4><a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">2DSnowMemory 공모전용 영상</a>
