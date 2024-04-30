@@ -22,8 +22,3 @@
 - 'Adobe Illustrator2018 , PhotoShop2018'
 - 'Xd'
 - 'VisualStudio 2022'
-
-## 📌 프로젝트 기술서 설명 및 영상
-<h4>영상링크: </h4><a href ="https://www.youtube.com/watch?v=ioc1Jlgwopo">2DSnowMemory 공모전용 영상</a>
-
-<h4>게임 기술서:</h4><a href="https://drive.google.com/file/d/1mQ1vUeWzvsofR47Tp3jNfTy0h0orbNH9/view?usp=sharing">2DSnowMemory Unity 기술 설명서.</a>
